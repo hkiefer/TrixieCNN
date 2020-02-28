@@ -1,0 +1,3 @@
+1st step: Simple Cat-Dog-Classifier
+2nd step: Animal-Classifier using Colab CPU
+3rd step: Hasi-Classifier which finds one of four rabbit names
