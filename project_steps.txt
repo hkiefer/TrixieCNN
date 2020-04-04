@@ -1,3 +1,4 @@
-1st step: Simple Cat-Dog-Classifier
-2nd step: Animal-Classifier using Colab CPU
-3rd step: Hasi-Classifier which finds one of four rabbit names
+1st step: Simple Rabbit-Classifier (4 classes) --> collect data
+2nd step: Train Model with colab gpu
+3rd step: Transfer Learning/ Hasi-Classifier which finds one of four rabbit names
+4th step: fine-tuning, grid-search, regularization...
